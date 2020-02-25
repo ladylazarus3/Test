@@ -4,7 +4,7 @@ title: Glossary
 nav_order: 11
 ---
 
-# Title proper
+# Glossary
 {: .no_toc }
 
 ## Table of contents
