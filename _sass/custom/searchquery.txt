@@ -1,0 +1,16 @@
+cp:wiu AND yr:1800-1850 AND dt=bks AND mf:nmc NOT mt:url
+
+
+Books	1800		205
+Books	1801-1836	93
+Books	1837-1840	88
+Books	1841-1842	91
+Books	1843-1844	69
+Books	1845		45
+Books	1846		57
+Books	1847		44
+Books	1848		108
+Books	1849		48
+Books	1850		101
+949 records in total
+

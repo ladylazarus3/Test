@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parallel name of publisher
-parent: Production Publication Distribution Manufature
+parent: Production Publication Distribution Manufacture
 nav_order: 5
 ---
 
@@ -15,7 +15,7 @@ nav_order: 5
 
 ### Definition and scope
 
-X.X A title of manifestation that is selected for preference in a specific application or context.
+[X.X](#X.X) A title of manifestation that is selected for preference in a specific application or context.
 
 X.X An alternative title is treated as part of a title proper.
 

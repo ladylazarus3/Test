@@ -17,14 +17,14 @@ nav_order: 6
 
 X.X A title of manifestation that is selected for preference in a specific application or context.
 
-X.X An alternative title is treated as part of a title proper.
+X.X An alternative title is treated as part of a title proper. [1A3.1](#1A3.1)
 
 
 ### Sources of information
 
 X.X. The preferred source of information for the title proper is the title page. For special provisions relating to single-sheet manifestations, see CITATION.
 
-X.X. Multipart monographs. If the volume is part of a multipart monograph, and the title page gives a statement of the volume or part number within the larger work, omit this statement without using the mark of omission, unless it is a grammatically inseparable part of the information being transcribed. Do transcribe statements such as “in two volumes,” however CITATION.
+X.X. Multipart monographs. If the volume is part of a multipart monograph, and the title page gives a statement of the volume or part number within the larger work, omit this statement without using the mark of omission, unless it is a grammatically inseparable part of the information being transcribed. Do transcribe statements such as “in two volumes,” however [1A3.1](#1A3.1)
 
 ```Thomas Masterson his first[-second]... booke of arithmeticke```
 

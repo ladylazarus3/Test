@@ -7,7 +7,7 @@ nav_order: 3
 
 # Parallel title proper
 
-Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes.
+Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. [1A3.1](http://localhost:4000/Test/docs/Title/Title-proper/#1A3.1)
 
 | Modifier  | Screen size                          |
 |:----------|:-------------------------------------|
