@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Date of publication
-parent: Production Publication Distribution Manufature
-nav_order: 6
+title: Parallel place of publication
+parent: Production Publication Distribution Manufacture
+nav_order: 3
 ---
 
-# Date of publication
+# Parallel place of publication
 
 ## Element information
 

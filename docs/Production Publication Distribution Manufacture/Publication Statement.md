@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Date of publication
-parent: Production Publication Distribution Manufature
-nav_order: 6
+title: Publication Statement
+parent: Production Publication Distribution Manufacture
+nav_order: 1
 ---
 
-# Date of publication
+# Publication Statement
 
 ## Element information
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Title proper 2
-parent: Title
-nav_order: 2
+title: Name of publisher
+parent: Production Publication Distribution Manufacture
+nav_order: 4
 ---
 
-# Title proper
+# Name of publisher
 
 ## Element information
 
