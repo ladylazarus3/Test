@@ -26,7 +26,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 
 # Enable or disable the site search
 search_enabled: true
-theme: jekyll-theme-primer
+theme: just-the-docs
 
 # Set the search token separator for hyphenated-word search:
 search_tokenizer_separator: /[\s/]+/
