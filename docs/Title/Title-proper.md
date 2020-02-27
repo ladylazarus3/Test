@@ -9,6 +9,7 @@ nav_order: 2
 {: .no_toc }
 ## Table of contents
 {: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 
@@ -48,7 +49,7 @@ ESTC: S112438
 
 <a name="1A4.1">1A4.1</a> Transcribe title information in the form and order in which it is presented in the source, unless instructed otherwise by specific guidelines CITATION.
 
-<a name="1A4.2">1A4.2</a>If parts of the title are scattered by layout or typography, compose the title proper based on those parts distinguished by position, typography, or size of lettering. If the text could reasonably be assembled in a different order, provide additional title access if considered important. [1A3.1](#1A3.1)
+<a name="1A4.2">1A4.2</a> If parts of the title are scattered by layout or typography, compose the title proper based on those parts distinguished by position, typography, or size of lettering. If the text could reasonably be assembled in a different order, provide additional title access if considered important. [1A3.1](#1A3.1)
 
 ```Our choice, Grover Cleveland, A.G. Thurman. Democratic nominees, for president, for vice president```
 
