@@ -19,7 +19,7 @@ In progress -- 20200112, ALT
 
 Option: Record a transcription standard used for the metadata work as a Work related manifestation of work of the transcription standard.
 
-![alt text](https://github.com/ladylazarus3/Test/docs/early%20contractions%2001.png "Early Contractions, image 1 [Missing Letter(s)] to [Con]")
+![alt text](https://github.com/ladylazarus3/Test/docs/Transcription/early%20contractions%2001.png "Early Contractions, image 1 [Missing Letter(s)] to [Con]")
 
 ## Process 
 
