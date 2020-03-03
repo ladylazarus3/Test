@@ -21,7 +21,7 @@ nav_order: 2
 
 ## 1A2 Definition and scope
 
-<a name="1A2.1">1A2.1</a> A title of manifestation that is selected for preference in a specific application or context.
+<a name="1A2.1">1A2.1</a> Χατζιδακις, Γεωργιος Ν. Γεωργιου Ν. Χατζιδακι A title of manifestation that is selected for preference in a specific application or context.
 
 <a name="1A2.2">1A2.2</a> An alternative title is treated as part of a title proper.
 
