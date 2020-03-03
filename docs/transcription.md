@@ -1,3 +1,11 @@
+---
+layout: default
+title: Transcription
+nav_order: 12
+has_children: true
+permalink: docs/Transcription
+---
+
 # RBMS Transcription Guidelines
 
 [For decimal forms of Unicode characters](https://unicodelookup.com/)
